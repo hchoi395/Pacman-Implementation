@@ -1,0 +1,129 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.pacman"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:5:5-52:19
+12        android:allowBackup="true"
+12-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.7.0] /Users/louiechoi/.gradle/caches/transforms-3/249713548fb8d92d9c56becf07cdffea/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:7:9-65
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:fullBackupContent="@xml/backup_rules"
+17-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:8:9-54
+18        android:icon="@mipmap/ic_launcher"
+18-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:9:9-43
+19        android:label="@string/app_name"
+19-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:10:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:11:9-54
+21        android:supportsRtl="true"
+21-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:12:9-35
+22        android:testOnly="true"
+23        android:theme="@style/Theme.Pacman" >
+23-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:13:9-44
+24        <activity
+24-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:15:9-21:20
+25            android:name="com.example.pacman.OptionsActivity"
+25-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:16:13-44
+26            android:exported="false" >
+26-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:17:13-37
+27            <meta-data
+27-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:18:13-20:36
+28                android:name="android.app.lib_name"
+28-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:19:17-52
+29                android:value="" />
+29-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:20:17-33
+30        </activity>
+31        <activity
+31-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:22:9-28:20
+32            android:name="com.example.pacman.EndScreenActivity"
+32-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:23:13-46
+33            android:exported="false" >
+33-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:24:13-37
+34            <meta-data
+34-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:18:13-20:36
+35                android:name="android.app.lib_name"
+35-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:19:17-52
+36                android:value="" />
+36-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:20:17-33
+37        </activity>
+38        <activity
+38-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:29:9-35:20
+39            android:name="com.example.pacman.ConfigScreen"
+39-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:30:13-41
+40            android:exported="false" >
+40-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:31:13-37
+41            <meta-data
+41-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:18:13-20:36
+42                android:name="android.app.lib_name"
+42-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:19:17-52
+43                android:value="" />
+43-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:20:17-33
+44        </activity>
+45        <activity
+45-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:36:9-48:20
+46            android:name="com.example.pacman.MainActivity"
+46-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:37:13-41
+47            android:exported="true" >
+47-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:38:13-36
+48            <intent-filter>
+48-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:39:13-43:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:40:17-69
+49-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:40:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:42:17-77
+51-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:42:27-74
+52            </intent-filter>
+53
+54            <meta-data
+54-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:18:13-20:36
+55                android:name="android.app.lib_name"
+55-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:19:17-52
+56                android:value="" />
+56-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:20:17-33
+57        </activity>
+58        <activity
+58-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:49:9-51:48
+59            android:name="com.example.pacman.GameActivity"
+59-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:50:13-41
+60            android:label="@string/app_name" />
+60-->/Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/main/AndroidManifest.xml:51:13-45
+61
+62        <provider
+62-->[androidx.emoji2:emoji2:1.0.0] /Users/louiechoi/.gradle/caches/transforms-3/534a23b582687ff41a7186a04e3a238c/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+63            android:name="androidx.startup.InitializationProvider"
+63-->[androidx.emoji2:emoji2:1.0.0] /Users/louiechoi/.gradle/caches/transforms-3/534a23b582687ff41a7186a04e3a238c/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+64            android:authorities="com.example.pacman.androidx-startup"
+64-->[androidx.emoji2:emoji2:1.0.0] /Users/louiechoi/.gradle/caches/transforms-3/534a23b582687ff41a7186a04e3a238c/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+65            android:exported="false" >
+65-->[androidx.emoji2:emoji2:1.0.0] /Users/louiechoi/.gradle/caches/transforms-3/534a23b582687ff41a7186a04e3a238c/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+66            <meta-data
+66-->[androidx.emoji2:emoji2:1.0.0] /Users/louiechoi/.gradle/caches/transforms-3/534a23b582687ff41a7186a04e3a238c/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+67                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+67-->[androidx.emoji2:emoji2:1.0.0] /Users/louiechoi/.gradle/caches/transforms-3/534a23b582687ff41a7186a04e3a238c/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+68                android:value="androidx.startup" />
+68-->[androidx.emoji2:emoji2:1.0.0] /Users/louiechoi/.gradle/caches/transforms-3/534a23b582687ff41a7186a04e3a238c/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+69            <meta-data
+69-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/louiechoi/.gradle/caches/transforms-3/0d1c36957947c0cced820087c8164150/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+70                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+70-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/louiechoi/.gradle/caches/transforms-3/0d1c36957947c0cced820087c8164150/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+71                android:value="androidx.startup" />
+71-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/louiechoi/.gradle/caches/transforms-3/0d1c36957947c0cced820087c8164150/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+72        </provider>
+73    </application>
+74
+75</manifest>

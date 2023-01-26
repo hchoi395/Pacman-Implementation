@@ -1,0 +1,7 @@
+com.example.pacman.test.app-androidTest-0 /Users/louiechoi/Downloads/cs 2340 /Pacman/app/build/generated/res/resValues/androidTest/debug
+com.example.pacman.test.app-androidTest-1 /Users/louiechoi/Downloads/cs 2340 /Pacman/app/build/generated/res/rs/androidTest/debug
+com.example.pacman.test.app-mergeDebugAndroidTestResources-2 /Users/louiechoi/Downloads/cs 2340 /Pacman/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.pacman.test.app-mergeDebugAndroidTestResources-3 /Users/louiechoi/Downloads/cs 2340 /Pacman/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.pacman.test.app-merged_res-4 /Users/louiechoi/Downloads/cs 2340 /Pacman/app/build/intermediates/merged_res/debugAndroidTest
+com.example.pacman.test.app-androidTest-5 /Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/androidTest/res
+com.example.pacman.test.app-androidTestDebug-6 /Users/louiechoi/Downloads/cs 2340 /Pacman/app/src/androidTestDebug/res

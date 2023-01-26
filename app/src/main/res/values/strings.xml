@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pacman</string>
+    <string name="lives">Lives: 3</string>
+    <string name="playerName">PlayerName</string>
+    <string name="score">Score: 0</string>
+    <string name="difficulty">Difficulty: Normal</string>
+    <string name="round">Round: 0</string>
+</resources>

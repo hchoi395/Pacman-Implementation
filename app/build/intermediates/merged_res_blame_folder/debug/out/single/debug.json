@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/drawable_ghost_3.png.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/drawable/ghost_3.png"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/drawable_pacman_map.png.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/drawable/pacman_map.png"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/layout_activity_config_screen.xml.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/layout/activity_config_screen.xml"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/layout_activity_end_screen.xml.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/layout/activity_end_screen.xml"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/layout_activity_game.xml.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/layout/activity_game.xml"
+    },
+    {
+        "merged": "com.example.pacman.app-merged_res-25:/raw_lose.mp3.flat",
+        "source": "com.example.pacman.app-main-27:/raw/lose.mp3"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pacman.app-merged_res-25:/layout_activity_options.xml.flat",
+        "source": "com.example.pacman.app-main-27:/layout/activity_options.xml"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/drawable_ghost_1.png.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/drawable/ghost_1.png"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.pacman.app-merged_res-25:/layout_activity_end_screen.xml.flat",
+        "source": "com.example.pacman.app-main-27:/layout/activity_end_screen.xml"
+    },
+    {
+        "merged": "com.example.pacman.app-merged_res-25:/layout_activity_game.xml.flat",
+        "source": "com.example.pacman.app-main-27:/layout/activity_game.xml"
+    },
+    {
+        "merged": "com.example.pacman.app-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "com.example.pacman.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.pacman.app-merged_res-25:/raw_intro.mp3.flat",
+        "source": "com.example.pacman.app-main-27:/raw/intro.mp3"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pacman.app-merged_res-25:/raw_pellet.mp3.flat",
+        "source": "com.example.pacman.app-main-27:/raw/pellet.mp3"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/drawable_ghost_2.png.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/drawable/ghost_2.png"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/xml_backup_rules.xml.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/drawable_sprite_pacman.png.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/drawable/sprite_pacman.png"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/layout_activity_options.xml.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/layout/activity_options.xml"
+    },
+    {
+        "merged": "com.example.pacman.app-merged_res-25:/drawable_scare_ghost.png.flat",
+        "source": "com.example.pacman.app-main-27:/drawable/scare_ghost.png"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/drawable_sprite_pacman_2.png.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/drawable/sprite_pacman_2.png"
+    },
+    {
+        "merged": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-merged_res-25:/drawable_ghost_0.png.flat",
+        "source": "/Users/louiechoi/.gradle/daemon/7.4/com.example.pacman.app-main-27:/drawable/ghost_0.png"
+    }
+]
